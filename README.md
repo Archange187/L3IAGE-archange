@@ -19,3 +19,4 @@
 | Nzanzu   | Kitero   | Nostalgie |
 | kavira     | musienene    | elvis   |
 | Kasoki   | Kyamundu | Germaine |
+| Kavira |Masindi    | Grace  |
