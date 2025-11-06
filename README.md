@@ -17,3 +17,4 @@
 | Kambale  | kitsuku  | joachim  |
 | Kambale  | Kateghe  | Elie     |
 | Nzanzu   | Kitero   | Nostalgie |
+| kavira     | musienene    | elvis   |
