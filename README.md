@@ -11,3 +11,4 @@
 | Kahindo  | Manzekele   | Gift     |
 | Katembo  | Luhavo   | Josias  |
 | KAHINDO      | KAVIRA    | Rosette   |
+| Muhindo    | vuhese   | bienvenu  |
