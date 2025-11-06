@@ -10,3 +10,4 @@
 | Kasereka | Mbunge      | Romain   |
 | Kahindo  | Manzekele   | Gift     |
 | Katembo  | Luhavo   | Josias  |
+| KAHINDO      | KAVIRA    | Rosette   |
