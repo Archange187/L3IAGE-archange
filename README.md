@@ -4,7 +4,8 @@
 
 #### FICHE DE CLOUD COMPUTING
 
-| Nom | Postnom | Prenom |
+| Nom      | Postnom  | Prenom   |
 | -------- | -------- | -------- |
-| Kasereka     | Kike     | 5000     |
-| Kasereka     | Mbunge    | Romain    |
+| Kasereka | Kike     | 5000     |
+| Kasereka | Mbunge   | Romain   |
+| Kambale  | kitsuku  | joachim  |
