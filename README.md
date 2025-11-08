@@ -32,3 +32,4 @@
 | kavira     | MULIVONDO     | Ornella   |
 | KASOKI     | VUSARA     | Livya     |
 | KAVUGHO    | MASTAKI    | Léonce    |
+| KASEREKA   | VIHAMBA    | Stiven    |
